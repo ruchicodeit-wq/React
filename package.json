@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "react-state-class",
+=======
+  "name": "objandstates",
+>>>>>>> 68fa10a (ludoboard on react)
   "private": true,
   "version": "0.0.0",
   "type": "module",
